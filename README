@@ -4,7 +4,7 @@ a php mbox file format (firebird) parser
 LICENSE MIT
 (C) Daniel Zelisko 
 (C) Maciej Grajcarek
-http://github.com/danielzzz/phpmbox
+http://github.com/danielzzz/mboxreader
 
 DESCRIPTION
 Reads mails for a mbox file and puts them into a mysql db table.
